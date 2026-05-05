@@ -15,6 +15,6 @@ const developer = {
   stack:    ["HTML", "CSS", "JavaScript", "PHP", "Java", "Flutter", "MySQL"],
   tools:    ["Laragon", "XAMPP", "Git"],
  
-  interests: ["music", "dark UI", "programming", "relaxing", gaming],
+  interests: ["music", "dark UI", "programming", "relaxing", "gaming"],
 };
 ```
