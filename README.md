@@ -8,7 +8,7 @@
 const developer = {
   name:     "Miguel França",
   alias:    "byFranca",
-  age:      16,
+  age:      17,
   school:   "ETEC — Antônio Devisate",
   location: "Marília, São Paulo, BR",
  
