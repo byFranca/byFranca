@@ -96,7 +96,7 @@ const developer = {
 
 
 Olá! Meu nome é Miguel França, sou estudante de programação na ETEC Antônio Devisate,
-tenho 16 anos e gosto de transformar ideias em código. Busco sempre novas oportunidades de
+tenho 17 anos e gosto de transformar ideias em código. Busco sempre novas oportunidades de
 aprender e evoluir. Ainda estou no começo — mas já estou construindo.
 
 
